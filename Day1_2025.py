@@ -1,7 +1,6 @@
 with open("./input_day1.txt", "r") as file:
     contenuto = file.readlines()
 
-c=10
 
 somma=50
 password=0
@@ -24,3 +23,4 @@ print(password)
             
       
     
+
